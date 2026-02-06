@@ -1,7 +1,5 @@
 Quality Assurance (QA) Testing Portfolio
-
-Welcome to my QA repository! This project showcases my skills in Manual Testing, Performance Testing, and Database Testing. It includes detailed test cases for critical modules like Payment Gateways 
-and performance reports generated using Apache JMeter.
+Welcome to my QA repository! This project showcases my skills in Manual Testing, Performance Testing, and Database Testing. It includes detailed test cases for critical modules like Payment Gateways and performance reports generated using Apache JMeter.
 
 📂 Repository Contents
 1. 💳 Payment Gateway Testing
@@ -9,7 +7,7 @@ File: Payment Gateway Test Case.png
 
 Description: Includes comprehensive test scenarios for payment processing.
 
-Scenarios Covered: Successful transactions (Credit Card/Debit Card).
+Scenarios Covered: * Successful transactions (Credit Card/Debit Card).
 
 Validation for incorrect CVV/Expiry dates.
 
@@ -24,17 +22,28 @@ Objective: To analyze system behavior under heavy load and identify performance 
 
 Insights: The repository includes the .jmx scripts and logs used to generate performance metrics.
 
-3. 🗄️ Database Testing
-Folder/File: Database Testing
+3. 🗄️ Database Testing & SQL Joins
 
-Description: Focuses on verifying data integrity, schema validation, and CRUD operations.
+Description: Focuses on verifying data integrity, schema validation, and complex data relationships using SQLite.
 
-Key Tests: Null value checks, primary key constraints, and data mapping between UI and Database.
+Schema Design: Built a relational structure for Students, Courses, Instructors, and Enrollments.
+
+Key Operations:
+
+Schema Validation: Verified Primary Key constraints and Table structures.
+
+Data Integrity: Validated CRUD operations and data mapping.
+
+Join Operations: Executed INNER JOIN, LEFT JOIN, and Multi-table Joins to ensure data correctly maps between entities (e.g., Student to Course to Instructor).
+
+QA Use Case: Used Joins to identify "orphaned" records or null values in mandatory relationship fields.
 
 🛠️ Tools & Technologies
 Testing Types: Functional, Regression, Performance, Database Testing.
 
 Performance Tool: Apache JMeter.
+
+Database Tool: SQLite, DBeaver.
 
 Documentation: MS Excel / Google Sheets for Test Cases.
 
@@ -45,7 +54,7 @@ Open the Payment Gateway Test Case.png to see my approach to manual test case wr
 
 The .jmx files can be imported into Apache JMeter to view the test plan and thread configurations.
 
-Check the Database Testing section for SQL-based validation scenarios.
+Check the Database Testing section for the SQLite_Joins_Practice.sql script to see how I validate backend data relationships.
 
 🤝 Connect with Me
 I am passionate about ensuring software quality and am always open to discussing QA methodologies or potential collaborations.
