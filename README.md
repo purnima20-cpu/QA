@@ -52,6 +52,7 @@ Documentation: MS Excel / Google Sheets for Test Cases.
 Version Control: Git & GitHub.
 
 📝 How to Review
+
 Open the Payment Gateway Test Case.png to see my approach to manual test case writing.
 
 The .jmx files can be imported into Apache JMeter to view the test plan and thread configurations.
