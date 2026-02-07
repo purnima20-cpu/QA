@@ -4,7 +4,7 @@ Welcome to my QA repository! This project showcases my skills in Manual Testing,
 
 📂 Repository Contents
 
-1. 💳 Payment Gateway Testing
+1.💳 Payment Gateway Testing
 File: Payment Gateway Test Case.png
 
 Description: Includes comprehensive test scenarios for payment processing.
@@ -15,7 +15,7 @@ Validation for incorrect CVV/Expiry dates.
 
 Handling insufficient funds and network timeouts.
 
-3. 🗄️ Database Testing & SQL Joins
+2.🗄️ Database Testing & SQL Joins
 
 Description: Focuses on verifying data integrity, schema validation, and complex data relationships using SQLite.
 
@@ -32,9 +32,7 @@ Join Operations: Executed INNER JOIN, LEFT JOIN, and Multi-table Joins to ensure
 QA Use Case: Used Joins to identify "orphaned" records or null values in mandatory relationship fields.
 
 🛠️ Tools & Technologies
-Testing Types: Functional, Regression, Performance, Database Testing.
-
-Performance Tool: Apache JMeter.
+Testing Types: Functional, Regression, Performance, Database Testing
 
 Database Tool: SQLite, DBeaver.
 
