@@ -50,5 +50,4 @@ Check the Database Testing section for the SQLite_Joins_Practice.sql script to s
 I am passionate about ensuring software quality and am always open to discussing QA methodologies or potential collaborations.
 
 LinkedIn: Purnima Bohara
-
 GitHub: purnima20-cpu
