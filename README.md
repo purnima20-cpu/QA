@@ -15,15 +15,6 @@ Validation for incorrect CVV/Expiry dates.
 
 Handling insufficient funds and network timeouts.
 
-2. 📊 Performance Testing (JMeter)
-Files: Thread Group.jmx, newfile.jmx, jmeter_html_report.log
-
-Tools Used: Apache JMeter.
-
-Objective: To analyze system behavior under heavy load and identify performance bottlenecks.
-
-Insights: The repository includes the .jmx scripts and logs used to generate performance metrics.
-
 3. 🗄️ Database Testing & SQL Joins
 
 Description: Focuses on verifying data integrity, schema validation, and complex data relationships using SQLite.
