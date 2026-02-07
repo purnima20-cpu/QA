@@ -9,7 +9,7 @@ File: Payment Gateway Test Case.png
 
 Description: Includes comprehensive test scenarios for payment processing.
 
-Scenarios Covered: * Successful transactions (Credit Card/Debit Card).
+Scenarios Covered: Successful transactions (Credit Card/Debit Card).
 
 Validation for incorrect CVV/Expiry dates.
 
@@ -43,8 +43,6 @@ Version Control: Git & GitHub.
 📝 How to Review
 
 Open the Payment Gateway Test Case.png to see my approach to manual test case writing.
-
-The .jmx files can be imported into Apache JMeter to view the test plan and thread configurations.
 
 Check the Database Testing section for the SQLite_Joins_Practice.sql script to see how I validate backend data relationships.
 
