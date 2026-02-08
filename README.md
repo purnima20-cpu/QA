@@ -1,5 +1,4 @@
 Quality Assurance (QA) Testing Portfolio
-
 Welcome to my QA repository! This project showcases my skills in Manual Testing, Performance Testing, and Database Testing. It includes detailed test cases for critical modules like Payment Gateways and performance reports generated using Apache JMeter.
 
 📂 Repository Contents
