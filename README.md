@@ -7,9 +7,9 @@ Welcome to my QA repository! This project showcases my skills in Manual Testing,
 1.💳 Payment Gateway Testing
 File: Payment Gateway Test Case.png
 
-Description: Includes comprehensive test scenarios for payment processing.
+Description: Includes comprehensive test scenarios for payment processing
 
-Scenarios Covered: Successful transactions (Credit Card/Debit Card).
+Scenarios Covered: Successful transactions (Credit Card/Debit Card)
 
 Validation for incorrect CVV/Expiry dates.
 
