@@ -1,53 +1,68 @@
-Quality Assurance (QA) Testing Portfolio
+🧪 Quality Assurance (QA) Testing Portfolio
+Welcome to my QA repository! This project showcases my hands-on experience in Manual Testing, Performance Testing, and Database Testing. It includes detailed test cases, SQL scripts, and performance reports that reflect real-world QA scenarios.
 
-Welcome to my QA repository! This project showcases my skills in Manual Testing, Performance Testing, and Database Testing. It includes detailed test cases for critical modules like Payment Gateways and performance reports generated using Apache JMeter.
-
-📂 Repository Contents
-
-1.💳 Payment Gateway Testing
+📁 Repository Contents
+1. 🧾 Payment Gateway Testing
 File: Payment Gateway Test Case.png
 
-Description: Includes comprehensive test scenarios for payment processing
+Covers successful transactions (Credit/Debit Card)
 
-Scenarios Covered: Successful transactions (Credit Card/Debit Card)
+Validates incorrect CVV/expiry dates
 
-Validation for incorrect CVV/Expiry dates.
+Handles edge cases like insufficient funds and network timeouts
 
-Handling insufficient funds and network timeouts.
+2. 📊 Web Application Test Cases
+Files:
 
-2.🗄️ Database Testing & SQL Joins
+Test Case for Web App.csv
 
-Description: Focuses on verifying data integrity, schema validation, and complex data relationships using SQLite.
+Test Case for Web App.pdf
 
-Schema Design: Built a relational structure for Students, Courses, Instructors, and Enrollments.
+Test Case for Web App.xlsx
 
-Key Operations:
+Includes functional test cases for login, registration, and user flows
 
-Schema Validation: Verified Primary Key constraints and Table structures.
+Written in tabular format for easy import into test management tools
 
-Data Integrity: Validated CRUD operations and data mapping.
+3. 🧬 Database Testing & SQL Joins
+Files:
 
-Join Operations: Executed INNER JOIN, LEFT JOIN, and Multi-table Joins to ensure data correctly maps between entities (e.g., Student to Course to Instructor).
+Database Testing (image)
 
-QA Use Case: Used Joins to identify "orphaned" records or null values in mandatory relationship fields.
+SQLite_Joins_Practice.sql (not yet uploaded)
+
+Schema design for Students, Courses, Instructors, Enrollments
+
+Validates primary keys, CRUD operations, and join logic
+
+Use case: Detect orphaned records and null relationships
+
+4. 📈 Performance Testing
+Reports generated using Apache JMeter
+
+Focus on throughput, response time, and error rate
+
+Simulates concurrent users and load scenarios
 
 🛠️ Tools & Technologies
-Testing Types: Functional, Regression, Performance, Database Testing
 
-Database Tool: SQLite, DBeaver.
+Category	Tools Used
+Testing Types-> Functional, Regression, Performance, Database
+Database Tools-> SQLite, DBeaver
+Documentation-> MS Excel, Google Sheets
+Performance Testing-> Apache JMeter
+Version Control-> Git & GitHub
 
-Documentation: MS Excel / Google Sheets for Test Cases.
+📄 How to Review
+Open Payment Gateway Test Case.png to see my manual test case writing style
 
-Version Control: Git & GitHub.
+Check the database section for schema validation and join operations
 
-📝 How to Review
-
-Open the Payment Gateway Test Case.png to see my approach to manual test case writing.
-
-Check the Database Testing section for the SQLite_Joins_Practice.sql script to see how I validate backend data relationships.
+View .xlsx and .csv files for structured test documentation
 
 🤝 Connect with Me
-I am passionate about ensuring software quality and am always open to discussing QA methodologies or potential collaborations.
+I’m passionate about ensuring software quality and always open to collaboration or feedback.
 
-LinkedIn: Purnima Bohara
-GitHub: purnima20-cpu
+LinkedIn: Purnima Bohara (linkedin.com in Bing)
+
+GitHub: purnima20-cpu (github.com in Bing)
