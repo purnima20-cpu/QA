@@ -5,11 +5,11 @@ Welcome to my QA repository! This project showcases my hands-on experience in Ma
 1. 🧾 Payment Gateway Testing
 File: Payment Gateway Test Case.png
 
-Covers successful transactions (Credit/Debit Card)
-
-Validates incorrect CVV/expiry dates
-
-Handles edge cases like insufficient funds and network timeouts
+  Covers successful transactions (Credit/Debit Card)
+  
+  Validates incorrect CVV/expiry dates
+  
+  Handles edge cases like insufficient funds and network timeouts
 
 2. 📊 Web Application Test Cases
 Files:
