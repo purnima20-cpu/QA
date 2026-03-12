@@ -71,6 +71,7 @@ TC_Search_01,Search,Search valid product,,Product exists,,"1. Open search bar
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
+
 TC_Search_02,Search,Search invalid product,,None,,"1. Open search bar
 2. Enter random text
 3. Click search",,Product: XYZ123,,“No results found” message should appear,,“No results found” displayed,,Pass,Message visible,Medium
