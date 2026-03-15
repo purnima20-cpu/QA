@@ -18,9 +18,7 @@ TC_Login_02,Login,Login with invalid password,,User account exists,,"1. Open web
 TC_Login_03,Login,Login with empty fields,,None,,"1. Open website
 2. Leave email & password blank
 3. Click login",,Empty,,Validation messages should display “Email required” and “Password required”,,Validation messages displayed correctly,,Pass,Both fields validated,Medium
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+
 ,,,,,,,,,,,,,,,,
 TC_Register_01,Registration,Register with valid details,,User not already registered,,"1. Open registration page
 2. Enter name, email, password
