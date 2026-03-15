@@ -6,9 +6,7 @@ TC_Login_01,Login,Login with valid credentials,,User account exists,,"1. Open we
 3. Enter valid password
 4. Click login",,"user@gmail.com
  / 123456",,User should login successfully and redirect to dashboard,,User logged in successfully,,Pass,Dashboard loaded correctly,High
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+
 ,,,,,,,,,,,,,,,,
 TC_Login_02,Login,Login with invalid password,,User account exists,,"1. Open website
 2. Enter valid email
