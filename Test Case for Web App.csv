@@ -26,9 +26,7 @@ TC_Register_01,Registration,Register with valid details,,User not already regist
 Email: purnima@gmail.com
 
 Password: 123456",,Account should be created successfully and confirmation email sent,,"Account created, email received",,Pass,Email verified in inbox,High
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+
 ,,,,,,,,,,,,,,,,
 TC_Register_02,Registration,Register with existing email,,User already registered,,"1. Open registration page
 2. Enter name, existing email, password
