@@ -13,9 +13,7 @@ TC_Login_02,Login,Login with invalid password,,User account exists,,"1. Open web
 3. Enter wrong password
 4. Click login",,"user@gmail.com
  / wrongpass",,Error message “Invalid credentials” should display,,Error displayed: “Invalid credentials”,,Pass,Message clear and visible,Medium
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+
 ,,,,,,,,,,,,,,,,
 TC_Login_03,Login,Login with empty fields,,None,,"1. Open website
 2. Leave email & password blank
