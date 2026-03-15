@@ -46,9 +46,7 @@ TC_Cart_02,Add to Cart,Remove product from cart,,Product already in cart,,"1. Op
 ,,,,,,,,,,,,,,,,
 TC_Cart_03,Add to Cart,Update product quantity,,Product already in cart,,"1. Open cart
 2. Change quantity to 2",,Product: Shoes,,Cart total and quantity should update,,"Quantity updated, total correct",,Pass,Price calculation correct,Medium
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+
 ,,,,,,,,,,,,,,,,
 TC_Search_01,Search,Search valid product,,Product exists,,"1. Open search bar
 2. Enter product name
