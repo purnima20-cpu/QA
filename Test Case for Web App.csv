@@ -51,9 +51,7 @@ TC_Cart_03,Add to Cart,Update product quantity,,Product already in cart,,"1. Ope
 TC_Search_01,Search,Search valid product,,Product exists,,"1. Open search bar
 2. Enter product name
 3. Click search",,Product: Shoes,,Related products should appear,,Search results displayed correctly,,Pass,Correct results shown,High
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+
 ,,,,,,,,,,,,,,,,
 
 TC_Search_02,Search,Search invalid product,,None,,"1. Open search bar
