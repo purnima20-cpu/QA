@@ -13,7 +13,7 @@ The repository includes **test cases, SQL validation scripts, performance report
 
 **File:** `Payment Gateway Test Case.png`
 
-Test cases designed to validate the functionality of an online payment gateway.
+Test cases designed to validate the functionality of an online payment gateway
 
 ### Test Scenarios
 
