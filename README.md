@@ -7,7 +7,7 @@ The repository includes **test cases, SQL validation scripts, performance report
 
 ---
 
-# 📁 Repository Contents
+# 📁 Repository Contents.
 
 ## 1️⃣ 🧾 Payment Gateway Testing
 
